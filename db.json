@@ -11,5 +11,9 @@
   "regions": {
     "id": 1,
     "name":"Bucuresti"
+  },
+  "noRegions": {
+    "id": 1,
+    "name":"Bucuresti"
   }
 }
