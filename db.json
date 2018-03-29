@@ -6,6 +6,8 @@
       "name":"Bucuresti"
     }
   ],
+  "noCities": [
+  ],
   "regions": {
     "id": 1,
     "name":"Bucuresti"
